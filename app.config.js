@@ -1,7 +1,7 @@
 export default {
   expo: {
     name: "Weather App",
-    slug: "weather-app-react-native",
+    slug: "weatherapp-reactnative",
     version: "1.0.0",
     orientation: "portrait",
     icon: "./assets/images/icon.png",
