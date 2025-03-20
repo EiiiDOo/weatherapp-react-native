@@ -9,6 +9,8 @@ dist/
 web-build/
 expo-env.d.ts
 
+nativewind-env.d.ts
+react-native-intent-launcher.d.ts
 # Native
 *.orig.*
 *.jks
@@ -36,3 +38,13 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+.env
+
+android/
+ios/
+.expo-shared/
+coverage/
+build/
+.vscode/
+Thumbs.db
